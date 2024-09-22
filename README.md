@@ -68,7 +68,8 @@ libmx is a C library designed to offer a collection of useful functions for vari
 
 ### Node structure:
 ```C
-typedef struct s_list {
+typedef struct s_list
+{
     void  *data;
     struct s_list *next;
 } t_list;
