@@ -76,7 +76,7 @@ typedef struct s_list
 ```
 
 |Function name|Description|
-|-------------|-----------------------------------------|
+|-------------|----------------------------------------------------------------|
 |```mx_create_node```|Creates a new node of linked list.|
 |```mx_push_front```|Inserts a new node of ```t_list``` type with the given parameter ```data``` at the beginning of the linked list.|
 |```mx_push_back```|Inserts a new node of ```t_list``` type with the given parameter ```data``` at the end of the linked list.|
